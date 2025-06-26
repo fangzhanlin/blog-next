@@ -93,10 +93,10 @@ function CvItemElement({ cvItem }: { cvItem: CvItem }) {
 
 export default function CvSectionElement() {
   const personalInfo: PersonalInfo = {
-    name: "Ke Xu",
-    email: "kexu567@gmail.com",
+    name: "Fangzhan Lin",
+    email: "xxx@gmail.com",
     location: "Shanghai, China",
-    intro: "Information Systems, Data Mining, and Blockchain Technology.",
+    intro: "XXXXX.",
     figurePath: "/personal/kexu_photo.webp",
   };
 
