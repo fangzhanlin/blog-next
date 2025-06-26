@@ -18,7 +18,7 @@ export default function Footer() {
 
             <div className="flex flex-row justify-center space-x-8 md:space-x-16">
                 <div className="flex flex-col">
-                    <span className="text-xxs">About</span>
+                    <span className="text-xxs">PowerByKeXu</span>
                     <span className="text-gray-500 text-xxs dark:text-gray-300">
                         <Link href={"/resume"}>Resume</Link>
                     </span>
