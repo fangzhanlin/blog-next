@@ -111,7 +111,7 @@ export default function CvSectionElement() {
           period: "September 2022 - Present",
         },
         {
-          title: "Tongji University, Chengdu",
+          title: "Tongji University, Shanghai",
           subtitle: "Bachelor's Degree in Information Systems and Information Management",
           content: "",
           period: "September 2018 - June 2022"
