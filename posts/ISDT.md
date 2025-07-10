@@ -65,3 +65,9 @@ IS 的绝大多数理论都和心理学和经济学相关，因为 economics 和
 * **c.** 兼具 a 和 b 的特性。
 
 基于这些视角，可以分析可能涉及的核理论。通过文献分析，还可以储备核理论以便于使用，不过区别于IV和DV的分析，理论层面的话题较少出现在摘要中，因此需要对全文层面进行分析。
+
+## 相关文献
+
+Tao Li, Andy; Liu, De; Xu, Sean Xin; and Yi, Cheng. 2024. "Interleaved Design for E-learning: Theory, Design, and Empirical Findings," MIS Quarterly, (48: 4) pp.1363-1394. https://aisel.aisnet.org/misq/vol48/iss4/9/
+
+Tobias Dehling, Ali Sunyaev (2023) A Design Theory for Transparency of Information Privacy Practices. Information Systems Research. https://doi.org/10.1287/isre.2019.0239
