@@ -10,8 +10,8 @@ import { Toaster } from "@/components/ui/sonner"; // Import Toaster
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "k's Space",
-  description: "Personal website of Ke Xu",
+  title: "l's Space",
+  description: "Personal website of FZLin",
   icons: {
     icon: "/favicon.ico",
   },

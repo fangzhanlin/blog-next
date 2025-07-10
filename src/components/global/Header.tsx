@@ -37,44 +37,12 @@ export default function Header() {
                     <h1 className="text-xl font-bold text-gray-500"></h1>
                     <div className="flex flex-row items-center space-x-4 w-full">
                         <a
-                            href="https://github.com/sitdownkevin"
+                            href="https://github.com/fangzhanlin"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-gray-700 hover:text-gray-500 transition-colors duration-300 hover:scale-105"
                         >
                             <FaGithub className="dark:text-white" />
-                        </a>
-                        <a
-                            href="https://www.linkedin.com/in/sitdownkevin"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="text-gray-700 hover:text-gray-500 transition-colors duration-300 hover:scale-105"
-                        >
-                            <FaLinkedin className="dark:text-white" />
-                        </a>
-                        <a
-                            href="https://www.instagram.com/sitdownkevin/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="text-gray-700 hover:text-gray-500 transition-colors duration-300 hover:scale-105"
-                        >
-                            <FaInstagram className="dark:text-white" />
-                        </a>
-                        <a
-                            href="https://weibo.com/u/5668436889"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="text-gray-700 hover:text-gray-500 transition-colors duration-300 hover:scale-105"
-                        >
-                            <FaWeibo className="dark:text-white" />
-                        </a>
-                        <a
-                            href="/api/rss"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="text-gray-700 hover:text-gray-500 transition-colors duration-300 hover:scale-105"
-                        >
-                            <FaRss className="dark:text-white" />
                         </a>
                         <ThemeToggle />
                     </div>

@@ -96,8 +96,8 @@ export default function CvSectionElement() {
     name: "Fangzhan Lin",
     email: "lfz17@tongji.edu.cn",
     location: "Shanghai, China",
-    intro: "Doctoral candidate.",
-    figurePath: "/personal/kexu_photo.webp",
+    intro: "Doctoral candidate. Major in LLM for Creativity in Game and Entertainment.",
+    figurePath: "/personal/fzlin_photo.webp",
   };
 
   const data: CvSection[] = [

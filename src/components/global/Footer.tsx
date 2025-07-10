@@ -18,28 +18,19 @@ export default function Footer() {
 
             <div className="flex flex-row justify-center space-x-8 md:space-x-16">
                 <div className="flex flex-col">
-                    <span className="text-xxs">PowerByKeXu</span>
+                    <span className="text-xxs">Power By KeXu</span>
                     <span className="text-gray-500 text-xxs dark:text-gray-300">
                         <Link href={"/resume"}>Resume</Link>
                     </span>
-                    <span className="text-gray-500 text-xxs dark:text-gray-300">
-                        <Link href={"/me/gallery"}>Gallery</Link>
-                    </span>
-                    <span className="text-gray-500 text-xxs dark:text-gray-300">
-                        <Link href={"/pow"}>WeChat</Link>
-                    </span>
                 </div>
                 <div className="flex flex-col">
-                    <span className="text-xxs">Tools</span>
+                    <span className="text-xxs">KeXu Tools</span>
                     <span className="text-gray-500 text-xxs dark:text-gray-300">
                         <Link href={"/tools/advanced_search"}>Advanced Search</Link>
                     </span>
-                    <span className="text-gray-500 text-xxs dark:text-gray-300">
-                        <Link href={"/tools/gpt_4o_image_prompts"}>GPT-4o Prompts</Link>
-                    </span>
                 </div>
                 <div className="flex flex-col">
-                    <span className="text-xxs">Projects</span>
+                    <span className="text-xxs">KeXu Projects</span>
                     <span className="text-gray-500 text-xxs dark:text-gray-300">
                         <Link href={"https://github.com/sitdownkevin/Blackboard-Enhanced"}>BB Enhanced</Link>
                     </span>
