@@ -110,5 +110,7 @@ LLM是否能够...
 
 * 设计供LLM调度的‘语言’。就像I Wanna Maker、Minecraft一样，一些具有可拓展性的支持用户生成内容 (User generated Content, UGC)的游戏设计，同样可能适合LLM用于生成游戏内容。
 
+* 优化LLM调度资源进行生成的能力。人类同样需要通过学习掌握mod开发，LLM也需要做相应的适配。
+
 
 
