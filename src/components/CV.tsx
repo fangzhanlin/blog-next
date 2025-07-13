@@ -126,7 +126,7 @@ export default function CvSectionElement() {
           title: "",
           subtitle: "",
           content:
-            "Zhongyun, Z., Yuming, G., Fangzhan, L, & Youqing, L. (Under revision). How the Technical Features of Generative AI Address Employee Needs: an Affordance and Disaffordance Lens, Journal of Managerial Psychology.",
+            "Zhongyun, Z., Yuming, G., Fangzhan, L*, & Youqing, L. (Under revision, Corresponding author). How the Technical Features of Generative AI Address Employee Needs: an Affordance and Disaffordance Lens, Journal of Managerial Psychology.",
           period: "",
         },
       ],
