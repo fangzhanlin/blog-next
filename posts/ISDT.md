@@ -1,8 +1,8 @@
 ---
 title: ISDT Brief Summary
 tags: Design Science
-create_date: 2025-07-11
-update_date: 2025-07-11
+create_date: 2025-07-09
+update_date: 2025-07-09
 hidden: false
 ---
 

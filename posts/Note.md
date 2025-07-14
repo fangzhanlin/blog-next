@@ -1,8 +1,8 @@
 ---
 title: 读前须知
 tags: Beginning
-create_date: 2025-07-10
-update_date: 2025-07-10
+create_date: 2025-07-07
+update_date: 2025-07-07
 hidden: false
 ---
 
