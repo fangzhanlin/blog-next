@@ -3,7 +3,7 @@ title: Quick Ideas to LLM Toy Games
 tags: LLM Game
 create_date: 2025-07-13
 update_date: 2025-07-13
-hidden: false
+hidden: true
 ---
 
 ## AI摘要

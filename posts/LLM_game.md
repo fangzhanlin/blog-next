@@ -3,7 +3,7 @@ title: LLM Game
 tags: LLM Game
 create_date: 2025-07-11
 update_date: 2025-07-11
-hidden: false
+hidden: true
 ---
 
 ## AI摘要
