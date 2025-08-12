@@ -1,9 +1,9 @@
 ---
 title: Quick Ideas to LLM Toy Games
-tags: LLM Game
+tags: LLM Game Brainstorming
 create_date: 2025-07-13
 update_date: 2025-07-13
-hidden: true
+hidden: false
 ---
 
 ## AI摘要

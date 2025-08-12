@@ -1,9 +1,9 @@
 ---
 title: LLM Game
-tags: LLM Game
+tags: LLM Game Brainstorming
 create_date: 2025-07-11
 update_date: 2025-07-11
-hidden: true
+hidden: false
 ---
 
 ## AI摘要

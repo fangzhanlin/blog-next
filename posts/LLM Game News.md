@@ -1,6 +1,6 @@
 ---
 title: LLM Game News
-tags: LLM Game
+tags: LLM Game Collection
 create_date: 2025-08-08
 update_date: 2025-08-08
 hidden: false

@@ -1,6 +1,6 @@
 ---
 title: Road to LLM Gameplay
-tags: LLM Game
+tags: LLM Game Brainstorming
 create_date: 2025-08-08
 update_date: 2025-08-08
 hidden: false
